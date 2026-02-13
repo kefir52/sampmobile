@@ -2,11 +2,12 @@
     "query": [
         {
             "number": 0,
-            "name": "[0.3.7]РУССКИЙ ДРИФТ СЕРВЕР RDS Акция x2",
+            "name": "[0.3.7]RUSSIAN DRIFT SERVER RDS",
             "ip": "46.174.52.246",
             "port": 7777,
-            "online": 36,
-            "maxplayers": 500,
+            "online": 25,
+            "maxplayers": 250,
             "password": false
         },
-        {}
+    ]
+}
