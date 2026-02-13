@@ -6,7 +6,7 @@
             "ip": "46.174.52.246",
             "port": 7777,
             "online": 36,
-            "maxplayers": 250,
+            "maxplayers": 500,
             "password": false
         },
         {}
