@@ -6,6 +6,6 @@
         "game_url" : "",
         "version_code": 130,
         "url_launcher": "",
-        "url_cache_files": "https://raw.githubusercontent.com/kefir52/sampmobile/refs/heads/main/lite_list.json"
+        "url_cache_files": "https://samp-mobile.shop/files.json"
     }
 }
